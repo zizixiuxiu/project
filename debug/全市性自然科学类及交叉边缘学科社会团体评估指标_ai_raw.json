@@ -1,0 +1,1035 @@
+```json
+{
+    "question_data": [
+        {
+            "dimension": "党建工作",
+            "questions": [
+                {
+                    "sort_number": 1,
+                    "subject": "党组织写入章程",
+                    "stem": "写入章程",
+                    "standard_score": 8,
+                    "evaluation_requirements": "党组织写入社会团体章程，得8分；未写入，不得分。",
+                    "filling_instructions": "请提供社会团体章程中关于党组织建设的条款内容。"
+                },
+                {
+                    "sort_number": 2,
+                    "subject": "党的组织覆盖和工作覆盖",
+                    "stem": "党的组织覆盖和工作覆盖",
+                    "standard_score": 10,
+                    "evaluation_requirements": "实现党的组织和工作全覆盖，得10分；部分覆盖，酌情得分；未覆盖，不得分。",
+                    "filling_instructions": "请说明党组织设置情况及工作开展情况，提供相关证明材料。"
+                },
+                {
+                    "sort_number": 3,
+                    "subject": "工青妇建设",
+                    "stem": "工青妇建设",
+                    "standard_score": 2,
+                    "evaluation_requirements": "建立工会、共青团、妇联等组织并有效开展工作，得2分；未建立，不得分。",
+                    "filling_instructions": "请提供工青妇组织建设情况及相关活动证明材料。"
+                },
+                {
+                    "sort_number": 4,
+                    "subject": "党组织领导作用发挥",
+                    "stem": "发挥作用",
+                    "standard_score": 6,
+                    "evaluation_requirements": "党组织有效发挥领导作用，得6分；作用发挥一般，酌情得分；未发挥作用，不得分。",
+                    "filling_instructions": "请提供党组织发挥领导作用的相关证明材料。"
+                },
+                {
+                    "sort_number": 5,
+                    "subject": "党组织按期换届",
+                    "stem": "按期换届",
+                    "standard_score": 4,
+                    "evaluation_requirements": "党组织按期换届，得4分；未按期换届，不得分。",
+                    "filling_instructions": "请提供党组织换届相关文件和证明材料。"
+                },
+                {
+                    "sort_number": 6,
+                    "subject": "党组织书记选配",
+                    "stem": "书记选配",
+                    "standard_score": 4,
+                    "evaluation_requirements": "按规定选配党组织书记，得4分；未按规定选配，不得分。",
+                    "filling_instructions": "请提供党组织书记选配相关文件和证明材料。"
+                },
+                {
+                    "sort_number": 7,
+                    "subject": "党员管理",
+                    "stem": "党员管理",
+                    "standard_score": 4,
+                    "evaluation_requirements": "党员管理规范有序，得4分；管理一般，酌情得分；管理混乱，不得分。",
+                    "filling_instructions": "请提供党员管理相关制度和实施情况证明材料。"
+                },
+                {
+                    "sort_number": 8,
+                    "subject": "党员评议机制",
+                    "stem": "评议机制",
+                    "standard_score": 6,
+                    "evaluation_requirements": "建立并有效实施党员评议机制，得6分；建立但未有效实施，酌情得分；未建立，不得分。",
+                    "filling_instructions": "请提供党员评议机制相关文件和实施情况证明材料。"
+                },
+                {
+                    "sort_number": 9,
+                    "subject": "党员教育培训",
+                    "stem": "党员教育培训",
+                    "standard_score": 6,
+                    "evaluation_requirements": "定期开展党员教育培训，得6分；不定期开展，酌情得分；未开展，不得分。",
+                    "filling_instructions": "请提供党员教育培训计划、记录及相关证明材料。"
+                },
+                {
+                    "sort_number": 10,
+                    "subject": "发展党员工作",
+                    "stem": "发展党员",
+                    "standard_score": 4,
+                    "evaluation_requirements": "按规定程序发展党员，得4分；发展不规范，酌情得分；未发展，不得分。",
+                    "filling_instructions": "请提供发展党员工作相关文件和证明材料。"
+                },
+                {
+                    "sort_number": 11,
+                    "subject": "党风廉政建设",
+                    "stem": "党风廉政建设",
+                    "standard_score": 6,
+                    "evaluation_requirements": "党风廉政建设成效显著，得6分；成效一般，酌情得分；成效差，不得分。",
+                    "filling_instructions": "请提供党风廉政建设相关制度和实施情况证明材料。"
+                },
+                {
+                    "sort_number": 12,
+                    "subject": "上级党组织评价",
+                    "stem": "上级党组织评价",
+                    "standard_score": 10,
+                    "evaluation_requirements": "获得上级党组织好评，得10分；评价一般，酌情得分；评价差，不得分。",
+                    "filling_instructions": "请提供上级党组织评价意见或相关证明材料。"
+                },
+                {
+                    "sort_number": 13,
+                    "subject": "党组织基本制度落实",
+                    "stem": "落实基本制度",
+                    "standard_score": 8,
+                    "evaluation_requirements": "全面落实党组织基本制度，得8分；部分落实，酌情得分；未落实，不得分。",
+                    "filling_instructions": "请提供党组织基本制度落实情况相关证明材料。"
+                },
+                {
+                    "sort_number": 14,
+                    "subject": "党组织活动开展",
+                    "stem": "党的活动",
+                    "standard_score": 10,
+                    "evaluation_requirements": "党组织活动丰富多彩，得10分；活动较少，酌情得分；未开展活动，不得分。",
+                    "filling_instructions": "请提供党组织活动计划、记录及相关证明材料。"
+                },
+                {
+                    "sort_number": 15,
+                    "subject": "党组织阵地保障",
+                    "stem": "阵地保障",
+                    "standard_score": 6,
+                    "evaluation_requirements": "党组织活动阵地保障到位，得6分；保障一般，酌情得分；无保障，不得分。",
+                    "filling_instructions": "请提供党组织活动阵地相关证明材料。"
+                },
+                {
+                    "sort_number": 16,
+                    "subject": "党组织经费管理与保障",
+                    "stem": "经费管理与保障",
+                    "standard_score": 6,
+                    "evaluation_requirements": "党组织经费管理规范、保障到位，得6分；管理和保障一般，酌情得分；管理和保障差，不得分。",
+                    "filling_instructions": "请提供党组织经费管理和保障相关证明材料。"
+                }
+            ]
+        },
+        {
+            "dimension": "基础条件",
+            "questions": [
+                {
+                    "sort_number": 17,
+                    "subject": "法定代表人资质与职责",
+                    "stem": "按章程规定产生；职责明确，实行法定代表人述职制度；未兼任其他社会团体法定代表人；任期、年龄符合章程及有关政策规定；具有完全民事行为能力；未受过刑事处罚。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "法定代表人符合全部要求，得10分；每不符合一项，扣2分；扣完为止。",
+                    "filling_instructions": "请提供法定代表人相关证明材料和述职报告。"
+                },
+                {
+                    "sort_number": 18,
+                    "subject": "年末净资产要求",
+                    "stem": "上年末净资产不低于注册资金。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "上年末净资产不低于注册资金，得10分；低于注册资金，不得分。",
+                    "filling_instructions": "请提供上年末财务审计报告。"
+                },
+                {
+                    "sort_number": 19,
+                    "subject": "办公用房面积要求",
+                    "stem": "有不小于30 平方米的独立办公用房。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "有不小于30平方米的独立办公用房，得10分；小于30平方米，不得分。",
+                    "filling_instructions": "请提供办公用房产权证明或租赁合同。"
+                },
+                {
+                    "sort_number": 20,
+                    "subject": "办公设备配备",
+                    "stem": "配备办公基本设备（电脑、联网、打印机、电话、传真机等）",
+                    "standard_score": 5,
+                    "evaluation_requirements": "配备全部基本办公设备，得5分；每缺少一项，扣1分；扣完为止。",
+                    "filling_instructions": "请提供办公设备清单及相关证明材料。"
+                },
+                {
+                    "sort_number": 21,
+                    "subject": "专职工作人员配备",
+                    "stem": "常设办事机构配备与本团体开展业务工作相适应的专职工作人员；秘书长为专职，并按章程规定选举产生或公开选聘。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "专职工作人员配备适当且秘书长为专职，得10分；配备不适当或秘书长非专职，酌情扣分。",
+                    "filling_instructions": "请提供专职工作人员名单、劳动合同及秘书长选聘文件。"
+                },
+                {
+                    "sort_number": 22,
+                    "subject": "涉税事项处理",
+                    "stem": "涉税事项处理规范。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "涉税事项处理规范，得5分；处理不规范，酌情扣分。",
+                    "filling_instructions": "请提供涉税事项处理相关证明材料。"
+                },
+                {
+                    "sort_number": 23,
+                    "subject": "章程制定与内容",
+                    "stem": "章程文本符合《社会团体章程示范文本》要求及有关政策规定，并经会员（代表）大会表决通过。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "章程符合要求并经表决通过，得5分；不符合要求或未经表决通过，不得分。",
+                    "filling_instructions": "请提供社会团体章程及会员（代表）大会表决记录。"
+                },
+                {
+                    "sort_number": 24,
+                    "subject": "章程内容特点",
+                    "stem": "章程载明性质、宗旨、业务范围体现自然科学或交叉学科类社会团体的特点。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "章程体现自然科学或交叉学科类社会团体特点，得5分；未体现，不得分。",
+                    "filling_instructions": "请提供社会团体章程中体现特点的相关条款。"
+                },
+                {
+                    "sort_number": 25,
+                    "subject": "章程核准",
+                    "stem": "制定或修订的章程经业务主管单位审核和登记管理机关核准。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "章程经业务主管单位审核和登记管理机关核准，得10分；未经审核或核准，不得分。",
+                    "filling_instructions": "请提供业务主管单位审核意见和登记管理机关核准文件。"
+                },
+                {
+                    "sort_number": 26,
+                    "subject": "登记事项完备性",
+                    "stem": "各项登记事项（即名称、住所、宗旨、业务范围和活动地域、法定代表人、注册资金等）手续完备。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "登记事项手续完备，得10分；每缺少一项，扣2分；扣完为止。",
+                    "filling_instructions": "请提供登记证书及相关证明材料。"
+                },
+                {
+                    "sort_number": 27,
+                    "subject": "备案事项完备性",
+                    "stem": "各项备案事项（即负责人、由公务员或国有企事业单位领导干部兼任社会团体负责人的报批手续、执行机构及成员、监督机构及成员、办事机构及成员、实体机构、印章式样、银行账户、每届会员名册等）手续完备。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "备案事项手续完备，得10分；每缺少一项，扣1分；扣完为止。",
+                    "filling_instructions": "请提供各项备案事项的证明材料。"
+                },
+                {
+                    "sort_number": 28,
+                    "subject": "涉军名称管理",
+                    "stem": "社会团体及其分支机构名称",
+                    "standard_score": 2,
+                    "evaluation_requirements": "社会团体及其分支机构名称符合涉军管理规定，得2分；不符合，不得分。",
+                    "filling_instructions": "请说明社会团体及其分支机构名称是否符合涉军管理规定。"
+                },
+                {
+                    "sort_number": 29,
+                    "subject": "涉军业务活动管理",
+                    "stem": "开展涉军业务活动",
+                    "standard_score": 4,
+                    "evaluation_requirements": "涉军业务活动管理规范，得4分；管理不规范，酌情扣分。",
+                    "filling_instructions": "请提供涉军业务活动管理相关证明材料。"
+                },
+                {
+                    "sort_number": 30,
+                    "subject": "军队人员参与管理",
+                    "stem": "军队人员和单位参加社会团体及其活动管理",
+                    "standard_score": 2,
+                    "evaluation_requirements": "军队人员和单位参加社会团体及其活动管理规范，得2分；管理不规范，不得分。",
+                    "filling_instructions": "请提供军队人员和单位参加社会团体及其活动管理相关证明材料。"
+                },
+                {
+                    "sort_number": 31,
+                    "subject": "未入会军队人员参与限制",
+                    "stem": "未入会的军队人员一般不得参加社会团体活动",
+                    "standard_score": 2,
+                    "evaluation_requirements": "严格执行未入会军队人员不得参加社会团体活动规定，得2分；未严格执行，不得分。",
+                    "filling_instructions": "请说明未入会军队人员参加社会团体活动管理情况。"
+                },
+                {
+                    "sort_number": 32,
+                    "subject": "年检年报参与",
+                    "stem": "按时参加年度检查或年报。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "按时参加年度检查或年报，得10分；未按时参加，不得分。",
+                    "filling_instructions": "请提供近两年年检或年报证明材料。"
+                },
+                {
+                    "sort_number": 33,
+                    "subject": "年检年报整改",
+                    "stem": "按时完成年检（年报）提出的整改事项。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "按时完成年检（年报）提出的整改事项，得10分；未按时完成，酌情扣分。",
+                    "filling_instructions": "请提供年检（年报）整改事项完成情况证明材料。"
+                },
+                {
+                    "sort_number": 34,
+                    "subject": "遵纪守法情况",
+                    "stem": "遵守国家法律、法规和政策，无违规违纪行为。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "遵守国家法律、法规和政策，无违规违纪行为，得10分；有违规违纪行为，不得分。",
+                    "filling_instructions": "请说明近两年遵纪守法情况，提供相关证明材料。"
+                },
+                {
+                    "sort_number": 35,
+                    "subject": "重大活动影响评估机制",
+                    "stem": "建立重大活动影响评估机制。对本社团可能引发社会风险的重要活动事项，事先向有关行政机关履行报告手续，并建立符合相关规定的重大事项报告制度。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "建立重大活动影响评估机制和重大事项报告制度，得5分；未建立或未执行，不得分。",
+                    "filling_instructions": "请提供重大活动影响评估机制和重大事项报告制度相关文件。"
+                },
+                {
+                    "sort_number": 36,
+                    "subject": "重要会议备案",
+                    "stem": "召开会员（代表）大会、理事会等重要会议及时上报相关职能部门（业务主管单位、业务指导单位或行业主管部门）、登记管理机关备案。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "重要会议及时备案，得5分；未及时备案，酌情扣分。",
+                    "filling_instructions": "请提供重要会议备案相关证明材料。"
+                },
+                {
+                    "sort_number": 37,
+                    "subject": "特定活动报批手续",
+                    "stem": "①举办评比达标表彰活动，②开展与其他组织合作，③召开涉外业务会议，④组团出国（境）考察，⑤与境外非政府组织交流活动，⑥举办论坛研讨会。按规定应当报批的，严格履行报批手续。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "特定活动按规定履行报批手续，得5分；未履行报批手续，每项扣1分；扣完为止。",
+                    "filling_instructions": "请提供特定活动报批手续相关证明材料。"
+                },
+                {
+                    "sort_number": 38,
+                    "subject": "重大项目活动报批手续",
+                    "stem": "①承办重大研究课题，②召开大型会议，③实施资助（捐赠）项目，④举办展览会，⑤开展产品促销活动，按规定应当报批的，严格履行相应手续。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "重大项目活动按规定履行报批手续，得5分；未履行报批手续，每项扣1分；扣完为止。",
+                    "filling_instructions": "请提供重大项目活动报批手续相关证明材料。"
+                }
+            ]
+        },
+        {
+            "dimension": "内部治理",
+            "questions": [
+                {
+                    "sort_number": 39,
+                    "subject": "会员（代表）大会设立和召开",
+                    "stem": "依照章程设立并召开会议。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "依照章程设立并召开会员（代表）大会，得5分；未设立或未召开，不得分。",
+                    "filling_instructions": "请提供会员（代表）大会设立和召开相关证明材料。"
+                },
+                {
+                    "sort_number": 40,
+                    "subject": "会员（代表）大会决策权力履行",
+                    "stem": "按照章程或会议制度规定，审议理事会工作报告、财务报告和监事会工作报告、会费标准、章程修订等，并审议其他重大事项。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "会员（代表）大会按规定履行决策权力，得10分；履行不全面，酌情扣分。",
+                    "filling_instructions": "请提供会员（代表）大会决策相关会议记录和决议文件。"
+                },
+                {
+                    "sort_number": 41,
+                    "subject": "会员（代表）大会按期换届",
+                    "stem": "依照章程规定按时实施会员（代表）大会换届。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "会员（代表）大会按期换届，得5分；未按期换届，不得分。",
+                    "filling_instructions": "请提供会员（代表）大会换届相关证明材料。"
+                },
+                {
+                    "sort_number": 42,
+                    "subject": "监事（会）设立",
+                    "stem": "设立监事会或监事岗位。本团体负责人、理事会成员、秘书处工作人员、财务工作人员不得兼任监事。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "设立监事会或监事岗位且人员配置符合要求，得5分；未设立或人员配置不符合要求，不得分。",
+                    "filling_instructions": "请提供监事（会）设立相关文件和人员配置情况。"
+                },
+                {
+                    "sort_number": 43,
+                    "subject": "监事（会）履职",
+                    "stem": "依照章程履行职责。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "监事（会）依照章程有效履行职责，得10分；履行不力，酌情扣分。",
+                    "filling_instructions": "请提供监事（会）履职相关证明材料。"
+                },
+                {
+                    "sort_number": 44,
+                    "subject": "理事会（常务理事会）产生及成员数",
+                    "stem": "理事会（常务理事会）的产生（选举、罢免）符合章程规定的民主议事程序，成员数符合相关规定比例；成员涉及报批的须按其干部管理权限履行手续。其中负责人在本学科或专业领域具有一定影响，任职条件及任职程序符合章程及有关规定。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "理事会（常务理事会）产生及成员数符合要求，得10分；每不符合一项，扣2分；扣完为止。",
+                    "filling_instructions": "请提供理事会（常务理事会）产生及成员数相关证明材料。"
+                },
+                {
+                    "sort_number": 45,
+                    "subject": "理事会（常务理事会）履职",
+                    "stem": "依照章程规定，理事会每年至少召开1 次会议，设常务理事会的每6 个月至少召开1次会议，并履行相应职责。其中负责人职责明确、团结协调、履职尽责，统领作用发挥好。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "理事会（常务理事会）按规定召开会议并履行职责，负责人作用发挥好，得10分；会议召开或职责履行不到位，酌情扣分。",
+                    "filling_instructions": "请提供理事会（常务理事会）会议记录和履职情况证明材料。"
+                },
+                {
+                    "sort_number": 46,
+                    "subject": "办事机构、分支机构设立及调整",
+                    "stem": "设立或调整办事机构、分支（代表）机构履行相应民主议事程序，并与本团体业务活动相适应。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "办事机构、分支机构设立或调整符合要求，得5分；不符合要求，不得分。",
+                    "filling_instructions": "请提供办事机构、分支机构设立或调整相关证明材料。"
+                },
+                {
+                    "sort_number": 47,
+                    "subject": "办事机构、分支机构管理及履职",
+                    "stem": "办事机构、分支（代表）机构日常运转及管理有序，工作制度健全并有效执行，分支（代表）机构在本团体授权范围内开展活动",
+                    "standard_score": 5,
+                    "evaluation_requirements": "办事机构、分支机构管理有序且在授权范围内开展活动，得5分；管理混乱或超范围开展活动，不得分。",
+                    "filling_instructions": "请提供办事机构、分支机构管理及履职相关证明材料。"
+                },
+                {
+                    "sort_number": 48,
+                    "subject": "法人基本治理制度",
+                    "stem": "法人治理基本制度健全。会员大会（会员代表大会）会议制度、会员管理制度、理事会（常务理事会）、监事会（监事）制度、选举与决策制度、信息公开披露制度、新闻发言人制度、外事工作制度、内部纠纷协调解决机制等健全。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "法人治理基本制度健全，得10分；每缺少一项制度，扣1分；扣完为止。",
+                    "filling_instructions": "请提供法人治理基本制度相关文件。"
+                },
+                {
+                    "sort_number": 49,
+                    "subject": "社团中长期规划",
+                    "stem": "制定与落实情况",
+                    "standard_score": 10,
+                    "evaluation_requirements": "制定并落实社团中长期规划，得10分；制定但未落实，酌情扣分；未制定，不得分。",
+                    "filling_instructions": "请提供社团中长期规划及落实情况相关证明材料。"
+                },
+                {
+                    "sort_number": 50,
+                    "subject": "社团年度工作计划和总结",
+                    "stem": "年度工作计划和总结",
+                    "standard_score": 10,
+                    "evaluation_requirements": "制定年度工作计划和总结，得10分；每缺少一项，扣5分。",
+                    "filling_instructions": "请提供近两年年度工作计划和总结。"
+                },
+                {
+                    "sort_number": 51,
+                    "subject": "业务活动范围符合性",
+                    "stem": "业务范围符合要求。开展业务活动事项与本团体章程规定的业务范围相一致。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "业务活动与章程规定业务范围一致，得10分；有不一致情况，酌情扣分。",
+                    "filling_instructions": "请提供业务活动与章程规定业务范围一致性相关证明材料。"
+                },
+                {
+                    "sort_number": 52,
+                    "subject": "内部业务或项目管理",
+                    "stem": "制定有项目或业务管理制度，业务或项目运作规范。每项业务活动有实施方案。事先或事后履行内部审议工作程序，有项目质量和绩效监管和评估，有奖惩，有项目档案。",
+                    "standard_score": 20,
+                    "evaluation_requirements": "内部业务或项目管理规范，得20分；管理不规范，每项扣4分；扣完为止。",
+                    "filling_instructions": "请提供内部业务或项目管理制度及相关证明材料。"
+                },
+                {
+                    "sort_number": 53,
+                    "subject": "外部活动管理制度",
+                    "stem": "制定外部活动管理制度。参加登记管理机关或相关职能部门业务主管单位、业务指导单位或行业主管部门组织的各类活动及业务培训等。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "制定外部活动管理制度并参加相关活动，得5分；未制定制度或不参加活动，酌情扣分。",
+                    "filling_instructions": "请提供外部活动管理制度及参加活动相关证明材料。"
+                },
+                {
+                    "sort_number": 54,
+                    "subject": "涉外工作制度",
+                    "stem": "依照本团体章程规定的业务范围，制定涉外工作制度，开展符合国家有关规定的境内外合作、交流与协调活动，并事先履行内部工作程序。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "制定涉外工作制度并按规定开展活动，得5分；未制定制度或活动不规范，不得分。",
+                    "filling_instructions": "请提供涉外工作制度及开展活动相关证明材料。"
+                },
+                {
+                    "sort_number": 55,
+                    "subject": "会员数量",
+                    "stem": "会员数量达到规定要求。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "会员数量达到规定要求，得5分；未达到，不得分。",
+                    "filling_instructions": "请提供会员名册及相关证明材料。"
+                },
+                {
+                    "sort_number": 56,
+                    "subject": "会员管理制度",
+                    "stem": "会员身份符合有关规定，建有会员信息数据库，会员管理制度健全并有效执行。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "会员身份符合规定，建有会员信息数据库，会员管理制度健全并有效执行，得5分；每不符合一项，扣1-2分。",
+                    "filling_instructions": "请提供会员管理制度、会员信息数据库及相关证明材料。"
+                },
+                {
+                    "sort_number": 57,
+                    "subject": "会员入、退会",
+                    "stem": "发展会员与本团体管理服务能力相适应，会员入会自愿、退会自由，符合章程规定程序，履行手续完备。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "会员入退会符合规定，得5分；不符合规定，酌情扣分。",
+                    "filling_instructions": "请提供会员入退会相关制度和证明材料。"
+                },
+                {
+                    "sort_number": 58,
+                    "subject": "岗位管理",
+                    "stem": "制定本团体专职工作人员岗位职责、任用、考核、奖惩、培训等管理制度并有效执行。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "专职工作人员岗位管理制度健全并有效执行，得10分；制度不健全或执行不力，酌情扣分。",
+                    "filling_instructions": "请提供专职工作人员岗位管理制度及执行情况相关证明材料。"
+                },
+                {
+                    "sort_number": 59,
+                    "subject": "劳动合同与薪酬福利",
+                    "stem": "依照《社会组织劳动合同书（示范文本）》与本团体建立劳动关系的专职工作人员签订并履行"劳动合同"，各项薪酬、基本社会保险等待遇落实到位。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "按规定签订劳动合同并落实薪酬福利，得5分；未签订或未落实，不得分。",
+                    "filling_instructions": "请提供劳动合同及薪酬福利落实相关证明材料。"
+                },
+                {
+                    "sort_number": 60,
+                    "subject": "薪酬管理制度",
+                    "stem": "建立薪酬管理制度，对本团体专职工作人员缴纳社保、公积金、社会组织年金即企业年金，含参加企业年金集合计划。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "建立薪酬管理制度并缴纳各项保险，得5分；未建立制度或未缴纳保险，酌情扣分。",
+                    "filling_instructions": "请提供薪酬管理制度及社保、公积金、年金缴纳证明材料。"
+                },
+                {
+                    "sort_number": 61,
+                    "subject": "专职工作人员年龄结构",
+                    "stem": "专职工作人员50 岁以下人员占30%以上。",
+                    "standard_score": 3,
+                    "evaluation_requirements": "专职工作人员50岁以下人员占30%以上，得3分；未达到，不得分。",
+                    "filling_instructions": "请提供专职工作人员年龄结构统计表。"
+                },
+                {
+                    "sort_number": 62,
+                    "subject": "专职工作人员学历结构",
+                    "stem": "专职工作人员本科以上学历（或中级以上职称）者占50%以上。",
+                    "standard_score": 3,
+                    "evaluation_requirements": "专职工作人员本科以上学历（或中级以上职称）者占50%以上，得3分；未达到，不得分。",
+                    "filling_instructions": "请提供专职工作人员学历（职称）结构统计表。"
+                },
+                {
+                    "sort_number": 63,
+                    "subject": "志愿者队伍建设",
+                    "stem": "建立有与本团体开展业务活动相适应的志愿者队伍，志愿者配置合理、招募及管理规范。",
+                    "standard_score": 4,
+                    "evaluation_requirements": "建立志愿者队伍且管理规范，得4分；未建立或管理不规范，酌情扣分。",
+                    "filling_instructions": "请提供志愿者队伍建设及管理相关证明材料。"
+                },
+                {
+                    "sort_number": 64,
+                    "subject": "会费管理",
+                    "stem": "制定或修订会费标准实行会员（代表）大会无记名票决制，自通过会费标准决议之日起30 日内，将决议向全体会员公开，会费收支纳入会计核算并向会员提供查询服务。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "会费管理规范，得5分；管理不规范，每项扣1分；扣完为止。",
+                    "filling_instructions": "请提供会费管理相关制度和证明材料。"
+                },
+                {
+                    "sort_number": 65,
+                    "subject": "会计人员配备",
+                    "stem": "按规定配备专职或兼职会计人员。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "按规定配备会计人员，得5分；未配备，不得分。",
+                    "filling_instructions": "请提供会计人员配备相关证明材料。"
+                },
+                {
+                    "sort_number": 66,
+                    "subject": "出纳人员配备",
+                    "stem": "按规定配备专职或兼职出纳人员。",
+                    "standard_score": 4,
+                    "evaluation_requirements": "按规定配备出纳人员，得4分；未配备，不得分。",
+                    "filling_instructions": "请提供出纳人员配备相关证明材料。"
+                },
+                {
+                    "sort_number": 67,
+                    "subject": "会计核算制度执行",
+                    "stem": "会计核算执行《民间非营利组织会计制度》。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "执行《民间非营利组织会计制度》，得5分；未执行，不得分。",
+                    "filling_instructions": "请提供会计核算执行相关制度及证明材料。"
+                },
+                {
+                    "sort_number": 68,
+                    "subject": "财务管理制度",
+                    "stem": "财务管理制度健全规范并有效执行（含货币资金、应收款项、存货、固定资产）。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "财务管理制度健全规范并有效执行，得10分；制度不健全或执行不力，酌情扣分。",
+                    "filling_instructions": "请提供财务管理制度及执行情况相关证明材料。"
+                },
+                {
+                    "sort_number": 69,
+                    "subject": "财务基础管理",
+                    "stem": "财务基础管理",
+                    "standard_score": 8,
+                    "evaluation_requirements": "财务基础管理规范，得8分；管理不规范，酌情扣分。",
+                    "filling_instructions": "请提供财务基础管理相关证明材料。"
+                },
+                {
+                    "sort_number": 70,
+                    "subject": "财务核算",
+                    "stem": "财务核算",
+                    "standard_score": 10,
+                    "evaluation_requirements": "财务核算规范，得10分；核算不规范，酌情扣分。",
+                    "filling_instructions": "请提供财务核算相关证明材料。"
+                },
+                {
+                    "sort_number": 71,
+                    "subject": "票据使用规范",
+                    "stem": "规范使用各种票据（支票、发票、收据）。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "规范使用各种票据，得5分；使用不规范，酌情扣分。",
+                    "filling_instructions": "请提供票据使用相关证明材料。"
+                },
+                {
+                    "sort_number": 72,
+                    "subject": "经费来源合规性",
+                    "stem": "经费来源符合政策法规和章程规定。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "经费来源符合政策法规和章程规定，得5分；有不符合情况，不得分。",
+                    "filling_instructions": "请提供经费来源合规性相关证明材料。"
+                },
+                {
+                    "sort_number": 73,
+                    "subject": "经费支出审批程序",
+                    "stem": "经费支出审批程序符合本团体财务管理规定和流程。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "经费支出审批程序符合规定，得5分；不符合规定，酌情扣分。",
+                    "filling_instructions": "请提供经费支出审批程序相关证明材料。"
+                },
+                {
+                    "sort_number": 74,
+                    "subject": "资金使用合规性",
+                    "stem": "资金使用符合章程及财务管理制度的规定，未列支本单位以外的费用，未在会员或工作人员中进行红利分配等。",
+                    "standard_score": 8,
+                    "evaluation_requirements": "资金使用符合规定，得8分；有不符合情况，每项扣2分；扣完为止。",
+                    "filling_instructions": "请提供资金使用合规性相关证明材料。"
+                },
+                {
+                    "sort_number": 75,
+                    "subject": "资产管理制度",
+                    "stem": "资产管理制度健全并有效执行。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "资产管理制度健全并有效执行，得5分；制度不健全或执行不力，酌情扣分。",
+                    "filling_instructions": "请提供资产管理制度及执行情况相关证明材料。"
+                },
+                {
+                    "sort_number": 76,
+                    "subject": "财务审计与监督",
+                    "stem": "委托会计师事务所对本团体进行财务审计。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "委托会计师事务所进行财务审计，得5分；未委托，不得分。",
+                    "filling_instructions": "请提供财务审计报告。"
+                },
+                {
+                    "sort_number": 77,
+                    "subject": "档案管理",
+                    "stem": "档案管理制度健全并有效执行，有专人负责管理、有专柜保存档案，档案整理规范、资料完整、存放有序。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "档案管理规范，得10分；管理不规范，酌情扣分。",
+                    "filling_instructions": "请提供档案管理制度及管理情况相关证明材料。"
+                },
+                {
+                    "sort_number": 78,
+                    "subject": "证书管理",
+                    "stem": "执行证书管理使用规定，凡实行有效期管理的各种证书在有效期内（获奖证书除外），证书保存完好。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "证书管理规范，得5分；管理不规范，酌情扣分。",
+                    "filling_instructions": "请提供证书管理相关证明材料。"
+                },
+                {
+                    "sort_number": 79,
+                    "subject": "印章管理",
+                    "stem": "制定并有效执行印章保管和使用制度，有专人负责保管印章。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "印章管理规范，得5分；管理不规范，不得分。",
+                    "filling_instructions": "请提供印章管理制度及管理情况相关证明材料。"
+                },
+                {
+                    "sort_number": 80,
+                    "subject": "媒体宣传",
+                    "stem": "积极开展媒体宣传。社会团体开展业务活动在报纸、期刊、电台、电视台、互联网等媒体进行宣传报道。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "积极开展媒体宣传，得5分；宣传不积极，酌情扣分。",
+                    "filling_instructions": "请提供媒体宣传相关证明材料。"
+                },
+                {
+                    "sort_number": 81,
+                    "subject": "自媒体宣传",
+                    "stem": "建立本团体门户网站、公众号、微博等自媒体宣传阵地，并适时更新。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "建立自媒体宣传阵地并适时更新，得5分；未建立或不更新，酌情扣分。",
+                    "filling_instructions": "请提供自媒体宣传阵地建设及更新情况相关证明材料。"
+                },
+                {
+                    "sort_number": 82,
+                    "subject": "风险防控预案",
+                    "stem": "建立健全风险防控预案情况",
+                    "standard_score": 5,
+                    "evaluation_requirements": "建立健全风险防控预案，得5分；未建立，不得分。",
+                    "filling_instructions": "请提供风险防控预案相关文件。"
+                },
+                {
+                    "sort_number": 83,
+                    "subject": "风险防控工作落实",
+                    "stem": "风险防控工作落实情况",
+                    "standard_score": 5,
+                    "evaluation_requirements": "风险防控工作落实到位，得5分；落实不到位，酌情扣分。",
+                    "filling_instructions": "请提供风险防控工作落实情况相关证明材料。"
+                },
+                {
+                    "sort_number": 84,
+                    "subject": "意识形态管理制度",
+                    "stem": "建立意识形态管理制度情况",
+                    "standard_score": 5,
+                    "evaluation_requirements": "建立意识形态管理制度，得5分；未建立，不得分。",
+                    "filling_instructions": "请提供意识形态管理制度相关文件。"
+                },
+                {
+                    "sort_number": 85,
+                    "subject": "意识形态管理工作落实",
+                    "stem": "意识形态管理工作落实情况",
+                    "standard_score": 5,
+                    "evaluation_requirements": "意识形态管理工作落实到位，得5分；落实不到位，酌情扣分。",
+                    "filling_instructions": "请提供意识形态管理工作落实情况相关证明材料。"
+                }
+            ]
+        },
+        {
+            "dimension": "工作绩效",
+            "questions": [
+                {
+                    "sort_number": 86,
+                    "subject": "领导班子领导力",
+                    "stem": "会长理事长及领导班子成员即负责人职责明确、团结协调、履职尽责，统领作用发挥好。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "领导班子领导力强，得10分；领导力一般，酌情扣分。",
+                    "filling_instructions": "请提供领导班子领导力相关证明材料。"
+                },
+                {
+                    "sort_number": 87,
+                    "subject": "秘书长协调能力",
+                    "stem": "秘书长协调运作能力强。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "秘书长协调运作能力强，得10分；协调能力一般，酌情扣分。",
+                    "filling_instructions": "请提供秘书长协调能力相关证明材料。"
+                },
+                {
+                    "sort_number": 88,
+                    "subject": "会员数量与覆盖率",
+                    "stem": "会员增长率呈正常发展趋势；会员数达到本学科专业领域群体的70%以上",
+                    "standard_score": 10,
+                    "evaluation_requirements": "会员增长率正常且覆盖率达到70%以上，得10分；增长率不正常或覆盖率未达到，酌情扣分。",
+                    "filling_instructions": "请提供会员数量及覆盖率相关统计材料。"
+                },
+                {
+                    "sort_number": 89,
+                    "subject": "会员参与与会费收缴",
+                    "stem": "会员对本团体业务活动的参与率、会费收缴率。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "会员参与率和会费收缴率高，得10分；参与率或收缴率低，酌情扣分。",
+                    "filling_instructions": "请提供会员参与率和会费收缴率相关统计材料。"
+                },
+                {
+                    "sort_number": 90,
+                    "subject": "经济绩效",
+                    "stem": "年平均收入状况与服务能力相适应。",
+                    "standard_score": 20,
+                    "evaluation_requirements": "年平均收入与服务能力相适应，得20分；不相适应，酌情扣分。",
+                    "filling_instructions": "请提供近两年收入状况与服务能力相关证明材料。"
+                },
+                {
+                    "sort_number": 91,
+                    "subject": "人才举荐与表彰",
+                    "stem": "组织参与院士候选人推荐、全国性社会组织奖项评选等活动，向市级部门举荐优秀科技人才，组织开展表彰奖励等活动。",
+                    "standard_score": 20,
+                    "evaluation_requirements": "积极开展人才举荐与表彰活动，得20分；活动较少，酌情扣分。",
+                    "filling_instructions": "请提供人才举荐与表彰活动相关证明材料。"
+                },
+                {
+                    "sort_number": 92,
+                    "subject": "会员权益维护",
+                    "stem": "开展反映会员诉求、维护会员合法权益的活动。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "积极开展会员权益维护活动，得10分；活动较少，酌情扣分。",
+                    "filling_instructions": "请提供会员权益维护活动相关证明材料。"
+                },
+                {
+                    "sort_number": 93,
+                    "subject": "会员专业服务",
+                    "stem": "为会员提供本团体学科或专业领域的专业性服务。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "积极为会员提供专业服务，得10分；服务较少，酌情扣分。",
+                    "filling_instructions": "请提供会员专业服务相关证明材料。"
+                },
+                {
+                    "sort_number": 94,
+                    "subject": "会员发展平台",
+                    "stem": "为会员提供展示技能才华、体现自身价值、沟通学习交流、提升专业素养平台。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "积极为会员提供发展平台，得10分；平台较少，酌情扣分。",
+                    "filling_instructions": "请提供会员发展平台相关证明材料。"
+                },
+                {
+                    "sort_number": 95,
+                    "subject": "会员优惠服务",
+                    "stem": "为会员优先提供各类优惠或免费服务。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "积极为会员提供优惠服务，得10分；服务较少，酌情扣分。",
+                    "filling_instructions": "请提供会员优惠服务相关证明材料。"
+                },
+                {
+                    "sort_number": 96,
+                    "subject": "学术活动年会",
+                    "stem": "每年举办学术活动年会。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "每年举办学术活动年会，得10分；未举办，不得分。",
+                    "filling_instructions": "请提供近两年学术活动年会相关证明材料。"
+                },
+                {
+                    "sort_number": 97,
+                    "subject": "学术活动规格",
+                    "stem": "学术活动规格。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "学术活动规格高，得10分；规格一般，酌情扣分。",
+                    "filling_instructions": "请提供学术活动规格相关证明材料。"
+                },
+                {
+                    "sort_number": 98,
+                    "subject": "学术活动质量",
+                    "stem": "学术活动质量。",
+                    "standard_score": 20,
+                    "evaluation_requirements": "学术活动质量高，得20分；质量一般，酌情扣分。",
+                    "filling_instructions": "请提供学术活动质量相关证明材料。"
+                },
+                {
+                    "sort_number": 99,
+                    "subject": "专委会学术会议",
+                    "stem": "每年召开专委会学术会议。",
+                    "standard_score": 15,
+                    "evaluation_requirements": "每年召开专委会学术会议，得15分；未召开，不得分。",
+                    "filling_instructions": "请提供近两年专委会学术会议相关证明材料。"
+                },
+                {
+                    "sort_number": 100,
+                    "subject": "学术课题研究",
+                    "stem": "依照中长期学术研究规划每年组织实施或承担课题研究。",
+                    "standard_score": 20,
+                    "evaluation_requirements": "每年组织实施或承担课题研究，得20分；未组织实施或承担，不得分。",
+                    "filling_instructions": "请提供近两年课题研究相关证明材料。"
+                },
+                {
+                    "sort_number": 101,
+                    "subject": "学术刊物",
+                    "stem": "学术刊物。",
+                    "standard_score": 20,
+                    "evaluation_requirements": "出版学术刊物，得20分；未出版，不得分。",
+                    "filling_instructions": "请提供学术刊物相关证明材料。"
+                },
+                {
+                    "sort_number": 102,
+                    "subject": "知识普及与咨询",
+                    "stem": "组织开展相关知识普及或咨询服务主题活动。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "积极开展知识普及或咨询活动，得5分；活动较少，酌情扣分。",
+                    "filling_instructions": "请提供知识普及或咨询活动相关证明材料。"
+                },
+                {
+                    "sort_number": 103,
+                    "subject": "科普活动参与",
+                    "stem": "参与市级突发事件处置科普活动或"缤纷节日"、科技进社区等活动。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "积极参与科普活动，得5分；参与较少，酌情扣分。",
+                    "filling_instructions": "请提供科普活动参与相关证明材料。"
+                },
+                {
+                    "sort_number": 104,
+                    "subject": "学术人才培养",
+                    "stem": "培养本学科学术人才，推进本学科或专业领域的应用、普及等工作业绩。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "积极培养学术人才，得5分；培养较少，酌情扣分。",
+                    "filling_instructions": "请提供学术人才培养相关证明材料。"
+                },
+                {
+                    "sort_number": 105,
+                    "subject": "学科调研与信息发布",
+                    "stem": "开展本学科或专业领域的调研、论证、信息采集、数据调查、统计分析、发布学科建设信息等活动等工作。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "积极开展学科调研与信息发布，得5分；开展较少，酌情扣分。",
+                    "filling_instructions": "请提供学科调研与信息发布相关证明材料。"
+                },
+                {
+                    "sort_number": 106,
+                    "subject": "学科发展环境改善",
+                    "stem": "为改善本学科或专业发展环境或推进本学科本专业发展建设提供相关服务的活动。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "积极改善学科发展环境，得5分；改善较少，酌情扣分。",
+                    "filling_instructions": "请提供学科发展环境改善相关证明材料。"
+                },
+                {
+                    "sort_number": 107,
+                    "subject": "重大发展战略参与",
+                    "stem": "参与"一带一路"与长江经济带协同创新研究等发展战略和其他市级重大科技专题建设。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "积极参与重大发展战略，得10分；参与较少，酌情扣分。",
+                    "filling_instructions": "请提供重大发展战略参与相关证明材料。"
+                },
+                {
+                    "sort_number": 108,
+                    "subject": "专家智库建设",
+                    "stem": "建立本学科或专业领域专家团队智库，并成为政府主导的决策咨询服务智库子库，或支持政府专家智库建设等。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "建立专家团队智库并支持政府智库建设，得10分；未建立或支持不力，酌情扣分。",
+                    "filling_instructions": "请提供专家智库建设相关证明材料。"
+                },
+                {
+                    "sort_number": 109,
+                    "subject": "政策法规落实协助",
+                    "stem": "协助或配合政府引导本团体会员贯彻落实有关法规政策，实施本学科或专业领域的建设与管理工作。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "积极协助政府落实政策法规，得10分；协助不力，酌情扣分。",
+                    "filling_instructions": "请提供政策法规落实协助相关证明材料。"
+                },
+                {
+                    "sort_number": 110,
+                    "subject": "政社沟通协调",
+                    "stem": "开展沟通、协调会员群体与政府、社会之间关系的活动，发挥政府与本团体会员群体间的桥梁纽带作用。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "积极开展政社沟通协调，得5分；协调较少，酌情扣分。",
+                    "filling_instructions": "请提供政社沟通协调相关证明材料。"
+                },
+                {
+                    "sort_number": 111,
+                    "subject": "政策法规制定参与",
+                    "stem": "建议制订或参与制定与本专业学科有关法规政策、发展规划、社会建设方案设计、社会治理实施规则等。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "积极参与政策法规制定，得5分；参与较少，酌情扣分。",
+                    "filling_instructions": "请提供政策法规制定参与相关证明材料。"
+                },
+                {
+                    "sort_number": 112,
+                    "subject": "专业意见采纳",
+                    "stem": "本团体提出专业性建设性意见，被政府有关部门采纳参考。",
+                    "standard_score": 10,
+                    "evaluation_requirements": "专业意见被政府采纳，得10分；未被采纳，不得分。",
+                    "filling_instructions": "请提供专业意见被采纳相关证明材料。"
+                },
+                {
+                    "sort_number": 113,
+                    "subject": "科学素质提升服务",
+                    "stem": "运用本团体学科或专业领域资源，组织实施服务社会、提升公民科学素质等活动。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "积极开展科学素质提升服务，得5分；服务较少，酌情扣分。",
+                    "filling_instructions": "请提供科学素质提升服务相关证明材料。"
+                },
+                {
+                    "sort_number": 114,
+                    "subject": "社会公益活动参与",
+                    "stem": "组织本团体会员群体履行社会责任，参与慈善、救助、环保等社会公益活动。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "积极参与社会公益活动，得5分；参与较少，酌情扣分。",
+                    "filling_instructions": "请提供社会公益活动参与相关证明材料。"
+                },
+                {
+                    "sort_number": 115,
+                    "subject": "乡村振兴公益活动",
+                    "stem": "组织本团体会员群体开展助推乡村振兴的公益活动",
+                    "standard_score": 5,
+                    "evaluation_requirements": "积极开展乡村振兴公益活动，得5分；活动较少，酌情扣分。",
+                    "filling_instructions": "请提供乡村振兴公益活动相关证明材料。"
+                },
+                {
+                    "sort_number": 116,
+                    "subject": "社会治理参与",
+                    "stem": "组织本团体会员参与社会治理、化解社会矛盾、维护社会秩序等社会建设活动。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "积极参与社会治理，得5分；参与较少，酌情扣分。",
+                    "filling_instructions": "请提供社会治理参与相关证明材料。"
+                },
+                {
+                    "sort_number": 117,
+                    "subject": "社会进步服务",
+                    "stem": "组织本团体会员运用本团体学科或专业领域资源，向社会大众提供有助于提升生活品质或推进社会发展进步的相关活动。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "积极开展社会进步服务，得5分；服务较少，酌情扣分。",
+                    "filling_instructions": "请提供社会进步服务相关证明材料。"
+                },
+                {
+                    "sort_number": 118,
+                    "subject": "垃圾分类宣传引导",
+                    "stem": "生活垃圾分类宣传引导计划（方案）制定及落实情况",
+                    "standard_score": 5,
+                    "evaluation_requirements": "制定并落实垃圾分类宣传引导计划，得5分；未制定或未落实，酌情扣分。",
+                    "filling_instructions": "请提供垃圾分类宣传引导计划及落实情况相关证明材料。"
+                },
+                {
+                    "sort_number": 119,
+                    "subject": "疫情防控",
+                    "stem": "疫情防控工作制度制定及落实情况",
+                    "standard_score": 5,
+                    "evaluation_requirements": "制定并落实疫情防控工作制度，得5分；未制定或未落实，酌情扣分。",
+                    "filling_instructions": "请提供疫情防控工作制度及落实情况相关证明材料。"
+                },
+                {
+                    "sort_number": 120,
+                    "subject": "学术道德与诚信自律制度",
+                    "stem": "制定和实施本团体学术道德建设和诚信自律制度。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "制定并实施学术道德和诚信自律制度，得5分；未制定或未实施，酌情扣分。",
+                    "filling_instructions": "请提供学术道德和诚信自律制度及实施情况相关证明材料。"
+                },
+                {
+                    "sort_number": 121,
+                    "subject": "学术争议处置与标准建设",
+                    "stem": "组织或参与实施本团体学术争议处置规则、专业领域的专业规范、技术或服务标准建设。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "组织或参与学术争议处置与标准建设，得5分；未组织或参与，不得分。",
+                    "filling_instructions": "请提供学术争议处置与标准建设相关证明材料。"
+                },
+                {
+                    "sort_number": 122,
+                    "subject": "职业道德建设",
+                    "stem": "组织或参与实施本团体涉及的学科或专业领域职业道德建设有成效。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "职业道德建设成效显著，得5分；成效一般，酌情扣分。",
+                    "filling_instructions": "请提供职业道德建设相关证明材料。"
+                },
+                {
+                    "sort_number": 123,
+                    "subject": "登记事项信息公开",
+                    "stem": "公开登记事项信息。主动向社会公开本团体经登记管理机关核准的章程文本、机构设置情况、各项登记事项包括名称、住所、宗旨、业务范围和活动地域、法定代表人、注册资金、联系电话及联系人等。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "主动公开登记事项信息，得5分；公开不全面，酌情扣分。",
+                    "filling_instructions": "请提供登记事项信息公开相关证明材料。"
+                },
+                {
+                    "sort_number": 124,
+                    "subject": "理事会班子信息公开",
+                    "stem": "公开理事会班子信息。主动向社会公开本团体负责人会长或理事长、副会长或副理事长、秘书长和理事会（常务理事会）成员名单。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "主动公开理事会班子信息，得5分；未公开，不得分。",
+                    "filling_instructions": "请提供理事会班子信息公开相关证明材料。"
+                },
+                {
+                    "sort_number": 125,
+                    "subject": "有偿服务信息公开",
+                    "stem": "公开有偿服务项目及收费标准。主动向社会公开本团体依照章程规定业务范围实施有偿服务项目及收费标准等信息。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "主动公开有偿服务信息，得5分；未公开，不得分。",
+                    "filling_instructions": "请提供有偿服务信息公开相关证明材料。"
+                },
+                {
+                    "sort_number": 126,
+                    "subject": "捐赠信息公开",
+                    "stem": "公开接受捐赠信息。主动向社会公开本团体接受捐赠及其使用情况，包括公益活动情况及支出明细和涉及相关财务收支审计报告。",
+                    "standard_score": 5,
+                    "evaluation_requirements": "主动公开捐赠信息，得5分；公开不全面，酌情扣分。",
+                    "filling_instructions": "请提供捐赠信息公开相关证明材料。"
+                }
+            ]
+        }
+    ],
+    "description": "本评估指标由重庆市民政局于2022年5月31日发布，用于全市性自然科学类及交叉边缘学科社会团体评估。评估包含党建工作、基础条件、内部治理和工作绩效四个维度，总分920分。评估设有一票否决事项：1.党建工作：不重视党建工作，应建未建党组织或常年不开展活动、不发挥党组织作用的，不得评为4A及以上等级；成立党组织未满两年的不能被评为5A社会组织。2.基础条件：基础条件一级指标得分率未达到90%以上的不能被评为5A社会组织，未达到80%以上的不能被评为4A社会组织，未达到70%以上的不能被评为3A社会组织；近二年有违纪违法违规行为、严重失信、未按时年检或年检不合格的，不得评为4A及以上等级。3.内部治理：内部治理得分率未达到90%不能被评为5A，未达到80%不能被评为4A，未达到70%不能被评为3A；治理结构严重不健全的，不能被评为3A以上社会组织；与员工发生劳资纠纷且责任方为本团体的，不能被评为4A以上组织；专职人员数量未达到5人及以上的不能被评为5A级社会组织。4.工作绩效：工作绩效一级指标总得分率未到90%以上的，不能被评为5A社会组织。"
+}
+```

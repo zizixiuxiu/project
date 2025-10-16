@@ -1,0 +1,11 @@
+.claude/
+__pycache__/
+*.pyc
+files/result/
+files/05-提取的文件/**
+.env
+*.local.json
+secrets.json
+.DS_Store
+.vscode/
+.idea/

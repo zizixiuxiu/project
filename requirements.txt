@@ -1,0 +1,9 @@
+requests>=2.28.0
+httpx>=0.24.0
+pymongo>=4.3.0
+pandas>=1.5.0
+python-docx>=0.8.11
+pdf2docx>=0.5.6
+docxcompose>=1.0.1
+git-filter-repo>=2.40
+# 可选（如果使用 BFG）：# no pip package for BFG; requires Java and BFG jar
