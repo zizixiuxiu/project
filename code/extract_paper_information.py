@@ -393,7 +393,7 @@ if __name__ == "__main__":
         "http://localhost:8000/files10.docx",
         "http://localhost:8000/files2.docx"
     ]
-    api_key = "sk-fdb99a0a3b85405fa67a55f08379385a"
+    api_key = ""
 
     titles_result, batch_id = process_pipeline_independent(urls, api_key)
     print("标题提取结果:", titles_result)
