@@ -33,13 +33,7 @@ MONGODB_CONFIG = {
 
 # API Keys
 API_KEYS = {
-    "qwen": "sk-skquafrfvnqufpraqiecpqeqjfgokxvglprxvhkeexoosucc",
-    "doubao": "sk-Hz4rMMxMt2qSts4RKGDAW2byVNTXpf56v5SlejZHgDzrQV1N",
-    "deepseek": "sk-fdb99a0a3b85405fa67a55f08379385a",
-    "qwen-plus": "sk-941d9edd6276473984da8d4f2b57a86a",
-    "doubao-self": "5dd533df-1d14-4aa2-9154-a641b8872eab",
-    "kimi": "sk-difiIo3iJdUqkcRqeSGU74M7iwf1ESIaonOEJZtMhb9Wdk28",
-    "doubao-lite": "sk-Hz4rMMxMt2qSts4RKGDAW2byVNTXpf56v5SlejZHgDzrQV1N"
+
 }
 
 # API 服务配置
